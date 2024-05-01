@@ -8,3 +8,4 @@
 7.[lab-7](https://github.com/Kushwanthbyragoni/AIML_Batch_19-20/blob/main/AI%26ML_Lab07.ipynb).
 8.[Lab-8](https://github.com/Kushwanthbyragoni/AIML_Batch_19-20/blob/main/AI%26ML_Lab08.ipynb).
 9.[Lab-9](https://github.com/Kushwanthbyragoni/AIML_Batch_19-20/blob/main/Lab09.ipynb)
+10.[Lab-10](https://github.com/Kushwanthbyragoni/AIML_Batch_19-20/blob/main/Assignment%2010.ipynb).
